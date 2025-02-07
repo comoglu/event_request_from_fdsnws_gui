@@ -6,13 +6,13 @@ A PyQt5-based GUI application for fetching and saving seismic events from FDSN W
 ## Features
 - Fetch events from multiple FDSN data centers
 - Filter events by time range and minimum magnitude
-- Save events in multiple formats (QuakeML, CSV, ZMAP, etc.)
+- Save events in multiple formats (QuakeML, CSV, ZMAP, NORDIC, etc.)
 - Support for additional event metadata
 
 ## Dependencies
 - Python 3.x
 - PyQt5
-- ObsPy
+- ObsPy, 
 - pandas
 
 ## Installation
